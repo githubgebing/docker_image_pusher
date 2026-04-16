@@ -7,3 +7,5 @@ xhofe/alist:latest
 mysql:5.7
 mysql
 redis
+clickhouse-server
+clickhouse-client
