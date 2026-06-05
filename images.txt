@@ -9,3 +9,5 @@ mysql
 redis
 clickhouse/clickhouse-server
 clickhouse/clickhouse-client
+clickhouse/clickhouse-server:22.1.3.7
+clickhouse/clickhouse-server:23.8
